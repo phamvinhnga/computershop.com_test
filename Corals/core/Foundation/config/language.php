@@ -115,6 +115,6 @@ return [
         ['short' => 'tr', 'long' => 'tr-TR', 'english' => 'Turkish', 'native' => 'Türkçe'],
         ['short' => 'tw', 'long' => 'zh-TW', 'english' => 'Chinese (T)', 'native' => '繁體中文'],
         ['short' => 'uk', 'long' => 'uk-UA', 'english' => 'Ukrainian', 'native' => 'Українська'],
-        ['short' => 'vi', 'long' => 'vi-VN', 'english' => 'Vietnamese', 'native' => 'Tiếng Việt'],
+        ['short' => 'vi', 'long' => 'vi-VI', 'english' => 'Vietnamese', 'native' => 'Tiếng Việt'],
     ],
 ];
