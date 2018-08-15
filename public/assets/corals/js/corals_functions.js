@@ -436,7 +436,7 @@ function switchFormFieldsTranslation(response, form, action_data) {
 
     activeLangCode.val(langCodeSelected);
 
-    let url = 'http://localhost:8888/computershop.com/public/get-model-translation';
+    let url = '/get-model-translation';
     
     let requestData = {
         model: model,
