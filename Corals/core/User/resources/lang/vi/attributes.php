@@ -25,9 +25,9 @@ return [
         'cell_phone_number' => 'Cell Phone Number',
     ],
     'role' => [
-        'name' => 'Name',
-        'label' => 'Label',
-        'subscription_required' => 'Is subscription required for this role?',
-        'users_count' => 'Users Count',
+        'name' => 'Tên vai trò',
+        'label' => 'Mô tả',
+        'subscription_required' => 'Yêu cầu đăng ký?',
+        'users_count' => 'Số lượng tài khoản',
     ]
 ];
