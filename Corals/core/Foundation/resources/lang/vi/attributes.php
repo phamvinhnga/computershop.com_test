@@ -5,15 +5,15 @@ return [
     'updated_at' => 'Ngày cập nhật',
     'deleted_at' => 'Xóa ngày',
     'created_by' => 'Được tạo',
-    'id' => 'ID',
-    'status' => 'Status',
+    'id' => 'Mã',
+    'status' => 'Trạng thái',
     'status_options' => [
-        'active' => 'Active',
-        'inactive' => 'Inactive',
+        'active' => 'Hoạt động',
+        'inactive' => 'Vô hiệu hóa',
     ],
     'status_options_boolean' => [
-        0 => 'Inactive',
-        1 => 'Active',
+        0 => 'Hoạt động',
+        1 => 'Vô hiệu hóa',
     ],
 
 ];
