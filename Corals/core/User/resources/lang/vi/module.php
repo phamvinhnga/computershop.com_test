@@ -11,12 +11,12 @@ return [
         'title_singular' => 'User',
     ],
     'role' => [
-        'title' => 'Roles',
-        'title_singular' => 'Role',
+        'title' => 'Vai Trò',
+        'title_singular' => 'vai trò',
     ],
     'profile' => [
-        'title' => 'Profile',
-        'title_singular' => 'Profile',
+        'title' => 'Thông Tin',
+        'title_singular' => 'Thông Tin',
     ],
     'address' => [
         'title' => 'Address'
