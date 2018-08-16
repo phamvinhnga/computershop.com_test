@@ -74,7 +74,7 @@ if (!function_exists('format_date')) {
      * @param string $format
      * @return false|null|string
      */
-    function format_date($date, $format = 'd M, Y')
+    function format_date($date, $format = 'd-m-Y')
     {
         if (empty($date)) {
             return null;
